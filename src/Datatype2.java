@@ -1,4 +1,6 @@
 public class Datatype2 {
+    public boolean a;
+
     public static void main(String[] args) {
         int a = 10003878;  // MAX 8
 

@@ -10,5 +10,7 @@ public class Comparisonoperator {
         System.out.println(x<y);
         System.out.println(x>=y);
         System.out.println(x<=y);
+        Assignmentoperators yash = new Assignmentoperators();
+        System.out.println(x);
     }
 }
