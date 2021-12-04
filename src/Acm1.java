@@ -9,6 +9,8 @@ protected float d = 4;
         int c =  22;
 
         Acm1 yash = new Acm1();
+        Datatype2 yash2 = new Datatype2();
+        System.out.println(yash2.a);
         System.out.println((yash.i)+b);
         System.out.println((yash.Y)*c);
         yash.name("mandaviya");
