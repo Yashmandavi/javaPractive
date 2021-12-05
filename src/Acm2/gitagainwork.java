@@ -6,8 +6,10 @@ public class gitagainwork {
     // git branch
     // git checkout -b " name"
     // git status
-    // git commit
     // git add src
+    // git commit -m "any project name"
+   // git push
+
 
 
 
